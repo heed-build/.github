@@ -7,8 +7,8 @@ Claude, Codex, Cursor, pi, opencode and gemini in real terminals, a worktree per
 and taps your shoulder only when one needs you.
 
 ```sh
-curl -fsSL https://heed.nullean.net/install.sh | sh
+curl -fsSL https://heed.build/install.sh | sh
 ```
 
-[Documentation](https://heed.nullean.net) · [Source](https://github.com/heed-build/heed) ·
+[Documentation](https://heed.build) · [Source](https://github.com/heed-build/heed) ·
 [Releases](https://github.com/heed-build/heed/releases)
